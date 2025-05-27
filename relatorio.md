@@ -11,7 +11,7 @@ Este repositório contém o relatório da **Atividade 03** da disciplina **Siste
 * **Público-alvo**: Alunos de SO do curso de TADS no CNAT-IFRN
 * **Disciplina**: [Sistemas Operacionais](https://github.com/sistemas-operacionais/)
 * **Professor**: [Leonardo A. Minora](https://github.com/leonardo-minora)
-* **Aluno**: [Seu Nome Aqui](https://github.com/nadsuus)
+* **Aluno**: [Nadson Santos Nascimento](https://github.com/nadsuus)
 
 ---
 
@@ -87,7 +87,7 @@ docker build -t so-c-compiler .
 ```
 
 > **Print A:** Saída do `docker build`
-> ![Build Docker Image](imagens/build.png)
+> ![Construindo a Imagem Docker](./imagens/Construindo-Imagem-Docker.jpg)
 
 ### Executando o Container e Compilando C
 
@@ -108,14 +108,14 @@ gcc -o programa tarefa.c
 3. Registre a saída e eventuais erros.
 
 > **Print B:** Compilação e execução
-> ![Compilando e executando](imagens/compile_run.png)
+> ![Compilando e executando](./imagens/copilando-codigo.jpg)
 
 ---
 
 ## Parte 3. Relatório da Prática
 
-**Nome:** Seu Nome Aqui
-**Data:** DD/MM/2025
+**Nome:** Nadson Santos Nascimento
+**Data:** 27/05/2025
 
 ### 1. Objetivo
 
@@ -145,7 +145,7 @@ Descrever o processo de criação de uma imagem Docker capaz de compilar e execu
 * **Execução**: saída correta conforme esperado.
 
 > **Print C:** Saída do programa
-> ![Saída do programa](imagens/output.png)
+ ![Saida do programa](./imagens/copilando-codigo.jpg)
 
 ### 4. Conclusão
 
