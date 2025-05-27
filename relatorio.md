@@ -87,7 +87,7 @@ docker build -t so-c-compiler .
 ```
 
 > **Print A:** Saída do `docker build`
-> ![Build Docker Image](imagens/build.png)
+> ![Construindo a Imagem Docker](Construindo a Imagem Docker.jpg)
 
 ### Executando o Container e Compilando C
 
