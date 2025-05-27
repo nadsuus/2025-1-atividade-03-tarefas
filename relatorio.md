@@ -11,7 +11,7 @@ Este repositório contém o relatório da **Atividade 03** da disciplina **Siste
 * **Público-alvo**: Alunos de SO do curso de TADS no CNAT-IFRN
 * **Disciplina**: [Sistemas Operacionais](https://github.com/sistemas-operacionais/)
 * **Professor**: [Leonardo A. Minora](https://github.com/leonardo-minora)
-* **Aluno**: [Seu Nome Aqui](https://github.com/nadsuus)
+* **Aluno**: [Nadson Santos Nascimento](https://github.com/nadsuus)
 
 ---
 
