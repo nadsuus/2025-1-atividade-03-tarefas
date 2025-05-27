@@ -158,5 +158,3 @@ A prática permitiu entender como:
 Esses conhecimentos podem ser aplicados em pipelines de CI/CD e ambientes de desenvolvimento isolados.
 
 ---
-
-*Fim do README.md*
