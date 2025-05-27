@@ -87,7 +87,7 @@ docker build -t so-c-compiler .
 ```
 
 > **Print A:** Saída do `docker build`
-> ![Construindo a Imagem Docker](Construindo a Imagem Docker.jpg)
+> ![Construindo a Imagem Docker](Construindo-Imagem-Docker.jpg)
 
 ### Executando o Container e Compilando C
 
@@ -108,14 +108,14 @@ gcc -o programa tarefa.c
 3. Registre a saída e eventuais erros.
 
 > **Print B:** Compilação e execução
-> ![Compilando e executando](imagens/compile_run.png)
+> ![Compilando e executando](copilando-codigo.jpg)
 
 ---
 
 ## Parte 3. Relatório da Prática
 
-**Nome:** Seu Nome Aqui
-**Data:** DD/MM/2025
+**Nome:** Nadson Santos Nascimento
+**Data:** 27/05/2025
 
 ### 1. Objetivo
 
@@ -145,7 +145,7 @@ Descrever o processo de criação de uma imagem Docker capaz de compilar e execu
 * **Execução**: saída correta conforme esperado.
 
 > **Print C:** Saída do programa
-> ![Saída do programa](imagens/output.png)
+ ![Saida do programa](copilando-codigo.jpg)
 
 ### 4. Conclusão
 
