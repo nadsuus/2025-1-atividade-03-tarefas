@@ -145,7 +145,7 @@ Descrever o processo de criação de uma imagem Docker capaz de compilar e execu
 * **Execução**: saída correta conforme esperado.
 
 > **Print C:** Saída do programa
- ![Saida do programa](./imagens/copilando-codigo.jpg)
+ ![Saida do programa](./imagens/saida.jpg)
 
 ### 4. Conclusão
 
